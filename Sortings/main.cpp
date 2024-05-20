@@ -31,8 +31,8 @@ void mergeSort(vector<int> &list){
 
 
 
-
 int partition(vector<int> &vec, int lb,int ub){
+    cout<<"Helloo";
     int pivot = vec[lb];
     int start = lb;
     int end = ub;
