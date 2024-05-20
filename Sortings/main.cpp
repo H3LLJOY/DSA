@@ -19,6 +19,7 @@ void merge(vector<int> &list,vector<int> left,vector<int> right){
 }
 
 void mergeSort(vector<int> &list){
+    cout<<"Hello";
     if(list.size()<2) return;
     int midIndex = list.size()/2;
     vector<int> left(list.begin(),list.begin()+midIndex);
