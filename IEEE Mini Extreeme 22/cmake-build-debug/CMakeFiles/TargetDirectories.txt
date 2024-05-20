@@ -1,0 +1,3 @@
+C:/Users/H3llJoY/CLionProjects/DSA/IEEE Mini Extreeme 22/cmake-build-debug/CMakeFiles/IEEE_Mini_Extreeme_22_part2.dir
+C:/Users/H3llJoY/CLionProjects/DSA/IEEE Mini Extreeme 22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/H3llJoY/CLionProjects/DSA/IEEE Mini Extreeme 22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
