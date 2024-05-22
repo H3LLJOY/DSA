@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\H3llJoY\CLionProjects\DSA\IEEE Mini Extreeme 22 part2 Select CMakeLists.txt

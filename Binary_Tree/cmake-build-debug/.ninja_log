@@ -1,6 +1,0 @@
-# ninja log v5
-1	203	7311721128390214	CMakeFiles/Binary_Tree.dir/main.cpp.obj	afe23c5587fe3cb8
-8	1896	7311721145319315	CMakeFiles/Binary_Tree.dir/lowest_common_ansestor.cpp.obj	8dafa8930f25cdba
-1899	2227	7311721148578760	Binary_Tree.exe	d5b52c4786c8c4a
-3	1391	7311735946075129	CMakeFiles/Binary_Tree.dir/lowest_common_ansestor.cpp.obj	8dafa8930f25cdba
-1392	1517	7311735947263187	Binary_Tree.exe	d5b52c4786c8c4a
